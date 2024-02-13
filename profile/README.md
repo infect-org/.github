@@ -7,7 +7,7 @@ about the INFECT Association. You may have a look at the Swiss INFECT at [infect
 You may find some documentation in our [docs repository](https://github.com/infect-org/infect-docs).
 
 ### Source Code
-The previosly published source code of the INFECT application is temporarily not available on GitHub, as we are restructuring and modernizing the project and intend to prevent premature forking during this time.
+The source code of the INFECT application Version 3 is no longer open-source on GitHub. The previosly published source code of the INFECT application Version 2 or earlier can be made available upon reasonable request.
 
 ### Contact
 
