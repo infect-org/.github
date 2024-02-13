@@ -11,4 +11,4 @@ The source code of the INFECT application Version 3 is subject to copyright. The
 
 ### Contact
 
-You may contact us at any time at hello@infect.org
+For more information or source code requests please do not hesitate to contact us at hello@infect.org
